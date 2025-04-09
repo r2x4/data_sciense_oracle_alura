@@ -1,4 +1,4 @@
-# Ejercicio 6: Promedio de temperaturas
+# Ejercicio 4: Promedio de temperaturas
 
 suma = 0
 contador = 0
@@ -19,7 +19,7 @@ if contador > 0:
 else:
     print("\nNo se ingresaron temperaturas válidas.")
 
-# Ejercicio 7: factorial
+# Ejercicio 5: factorial
 
 # Solicitar un número al usuario
 numero = int(input("Ingrese un número para calcular su factorial: "))
