@@ -3,7 +3,7 @@
 ids = []
 
 for i in range(10):
-    id_productos = int(input(f'ingresa el ID del producto {i+1}'))
+    id_productos = int(input(f'ingresa el ID del producto {i+1}:'))
     ids.append(id_productos)
     
 dulces = 0
